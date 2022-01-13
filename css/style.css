@@ -15,9 +15,14 @@ main {
     padding: 30px;
 }
 
+.top-palyer {
+    margin-bottom: 30px;
+}
+
 .title {
     font-size: 24px;
     color: #562EFF;
+    margin-top: 3px;
 }
 
 .players {
@@ -38,4 +43,23 @@ main {
 
 .player-name {
     margin-left: 18px;
+}
+
+hr {
+    border: 1px solid #D1D1D1;
+}
+
+
+/* top player end */
+
+
+/* Top blog start */
+
+.images img {
+    width: 177px;
+    height: 117px;
+}
+
+.blog {
+    display: flex;
 }
